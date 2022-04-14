@@ -1,4 +1,4 @@
-#### Hello. I'm a software developer 🧑🏽‍💻 working in 🇵🇹. My favorites languages are C# and JavaScript.
+#### Hello. I'm a software developer 🧑🏽‍💻 working in 🇵🇹. My favorite languages are C# and JavaScript.
 
 #### If I'm not working maybe I'm practicing or learning something new. I also play games 🕹️ Go out with friends 🚗 Or alone :]
 
