@@ -4,4 +4,7 @@
 
 #### I'm starting share some knowledge 👨‍🏫 You can access it by clicking here: [dvpfran/knowledge-share](https://dvpfran.github.io/knowledge-share/#/)
 
-#### I built 🔨 a very simple [dvpfran/tetris](https://dvpfran.github.io/tetris/) game and I'm planning to build more games like this 🎲 Just for fun :]
+#### Sometimes I built 🔨 very simple games 🎲 Just for fun :]
+
+> 🎮 [dvpfran/tetris](https://dvpfran.github.io/tetris/)  
+> 🐍 [dvpfran/snake](https://dvpfran.github.io/snake/)
